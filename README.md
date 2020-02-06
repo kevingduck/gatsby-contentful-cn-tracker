@@ -3,14 +3,14 @@
 ### Install
 
 ```
-git clone https://github.com/ryanwiemer/gatsby-starter-gcn.git
+git clone https://github.com/kevingduck/react-converged-networks-tracker.git 
 npm i
 ```
 
 Or via the [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
 
 ```
-gatsby new gatsby-starter-gcn https://github.com/ryanwiemer/gatsby-starter-gcn.git
+gatsby new gatsby-starter-gcn https://github.com/kevingduck/react-converged-networks-tracker.git 
 ```
 
 ### Setup Contentful
@@ -25,7 +25,7 @@ gatsby new gatsby-starter-gcn https://github.com/ryanwiemer/gatsby-starter-gcn.g
 
 ### Website Data
 
-Edit [`/src/utils/siteConfig.js`](https://github.com/ryanwiemer/gatsby-starter-gcn/blob/master/src/utils/siteConfig.js)
+Edit [`/src/utils/siteConfig.js`](https://github.com/kevingduck/react-converged-networks-tracker.git/blob/master/src/utils/siteConfig.js)
 
 ```js
 module.exports = {
@@ -55,7 +55,7 @@ module.exports = {
 
 ### Theme
 
-Edit [`/src/styles/theme.js`](https://github.com/ryanwiemer/gatsby-starter-gcn/blob/master/src/styles/theme.js)
+Edit [`/src/styles/theme.js`](https://github.com/kevingduck/react-converged-networks-tracker.git/blob/master/src/styles/theme.js)
 
 ```js
 const theme = {
